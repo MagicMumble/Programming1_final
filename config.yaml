@@ -1,0 +1,2 @@
+alcohol_consumption: './hlth_ehis_al1e_linear.csv'
+depressive_symptoms: './hlth_ehis_mh1e_linear.csv'
